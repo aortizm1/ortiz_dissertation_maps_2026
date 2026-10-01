@@ -1,0 +1,13 @@
+event_id,date,year,event_type,num_enslaved,value_pesos,acuna_role,acuna_place,event_place,note
+14,1703-07-28,1703,foundation of chaplaincy,,2000,founder,novita,cartago,
+16,1707-04-22,1707,debt,,500,debtor,novita,cartago,
+32,1709-02-19,1709,surety,,3000,guarantor,novita,cartago,"date and value corrected by the author (CSV had 1707-0-20, no value)"
+15,1709-03-30,1709,purchase of enslaved on credit,17.0,10355,buyer,novita,cartago,value corrected by the author (CSV had 9265)
+13,1709-04-10,1709,purchase of enslaved,1.0,520,buyer,novita,cartago,
+23,1709-08-20,1709,purchase of enslaved,1.0,500,buyer,novita,santafe,
+25,1710-03-18,1710,purchase of enslaved,1.0,225,buyer,santafe,santafe,paid upfront
+27,1710-03-27,1710,purchase of enslaved,1.0,140,buyer,santafe,santafe,paid upfront
+26,1710-03-31,1710,surety,,6000,guarantor,santafe,santafe,"6,000 pesos for both guarantors (author; the database had 12,000)"
+22,1710-05-19,1710,foundation of chaplaincy,,1000,founder,santafe,santafe,
+24,1710-05-26,1710,purchase of enslaved,1.0,400,buyer,santafe,santafe,paid upfront
+4,1710-07-10,1710,loan,,8462,borrower,santafe,santafe,

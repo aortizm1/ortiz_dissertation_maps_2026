@@ -1,0 +1,4 @@
+area_id,label,kind,ref,radius_km,active_from,active_to,note
+novita,Mines around Nóvita,place,novita,3.0,1703,1709,author: mines in the surroundings of the town of Nóvita (not individually mapped)
+los_brazos,Mines at Los Brazos,place,los_brazos,2.5,1703,1709,author: mines in the pueblo de indios or its immediate surroundings
+las_juntas,Mines at Las Juntas,place,las_juntas,2.5,1703,1709,author: mines in the pueblo de indios or its immediate surroundings

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these maps, data or code, please cite them as below."
+title: "Replication package: maps of Don Luis de Acuña's credit exchanges, New Granada, 1703–1717"
+authors:
+  - family-names: "Ortiz Molina"
+    given-names: "Amanda Carolina"
+    affiliation: "Binghamton University, State University of New York"
+date-released: "2026-09-30"
+version: "1.0.0"
+license: MIT
+repository-code: "[GitHub URL]"
+# doi: "[Zenodo DOI, added after the first archived release]"
+references:
+  - type: thesis
+    authors:
+      - family-names: "Ortiz Molina"
+        given-names: "Amanda Carolina"
+    title: "A World of Credit: A Social and Economic History of New Granada's Colonial Life in the Eighteenth Century"
+    thesis-type: "PhD dissertation"
+    institution:
+      name: "Binghamton University, State University of New York"
+    year: 2026     # working title and year; update after the defense

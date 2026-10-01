@@ -1,0 +1,22 @@
+place_id,name,display,type,lat,lon,source
+novita,novita,Nóvita,ciudad,4.95468,-76.60592,HGIS de las Indias
+mina_salto,nuestra senora de chiquinquira del salto,Nuestra Señora de Chiquinquirá del Salto,mina de Acuña,4.947964,-76.579153,acc.civil.minas.8170
+tamana,real de minas de san felipe de tamana,Tamaná mining camp,real de minas,4.989977,-76.47713,"Williams, Between Resistance and Adaptation"
+los_brazos,los brazos,Los Brazos,pueblo de indios,4.961584,-76.49682,HGIS de las Indias (Trinidad Los Brazos)
+tado,san jose de tado,Tadó,pueblo de indios,5.2663,-76.5629,HGIS de las Indias
+quibdo,quibdo,Quibdó,ciudad,5.6869,-76.658356,HGIS de las Indias
+cartago,cartago,Cartago,ciudad,4.74652,-75.912,HGIS de las Indias
+santafe,santafe,Santafé,ciudad,4.59744,-74.07475,HGIS de las Indias
+anserma,anserma,Anserma,ciudad,5.231,-75.786,HGIS gazetteer (as in the earlier maps; author's choice)
+cali,santiago de cali,Cali,ciudad,3.45144,-76.5323,HGIS de las Indias
+ibague,ibague,Ibagué,ciudad,4.445,-75.242,HGIS gazetteer
+honda,san bartolome de honda,Honda,villa,5.2,-74.74,HGIS de las Indias
+naurita,minas de nuestra senora de chiquinquira del real de minas de naurita,Nuestra Señora de Chiquinquirá (Naurita),mina de Acuña (after 1709),5.872953,-76.58221,HGIS de las Indias
+las_juntas,san onofre las juntas,Las Juntas,pueblo de indios,4.985,-76.404,HGIS de las Indias (San Onofre Las Juntas)
+sipi,san agustin zipi,Sipí,pueblo de indios,4.653,-76.644,HGIS de las Indias (San Agustín Zipi)
+yali,real de minas de yali,Yalí mine,mina,4.969556,-76.62485,"Anónimo, 'Compendiosa...' (author's ArcGIS table)"
+quebrada_larga,quebrada larga,Quebrada Larga mine,"mina (on the Quebrada Larga at its confluence with the Tamaná, approximate)",4.9506,-76.5177,Placed on the OSM Tamaná between Agua Clara and Sed de Cristo by travel time (59 of 37-65 min) from the community map of the Tamaná by Laida Patricia Asprilla (choco_data/tamana_map_laida_patricia_asprilla.png)
+popayan,popayan,Popayán,ciudad,2.441852,-76.606064,HGIS de las Indias
+lloro,concepcion el lloro,Lloró,pueblo de indios,5.5,-76.543,HGIS de las Indias (Concepción El Lloró)
+bebara,san antonio bebara,Bebará,pueblo de indios,6.091,-76.571,HGIS de las Indias (San Antonio Bebará)
+negua_fields,fields on the negua,his fields on the Neguá,fields (approximate),5.845,-76.64,"Chapter 2 (lands on the Neguá, corn and plantains); placed on the lower Neguá, approximate"

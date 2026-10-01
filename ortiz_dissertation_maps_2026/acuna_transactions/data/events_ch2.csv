@@ -1,0 +1,14 @@
+map,event_id,date,label,event_type,value_pesos,from_place,to_place,note
+2.1,17,1711-07-02,Jul 1711,purchase of enslaved,12480.0,novita,cartago,24 people; paid upfront
+2.1,28,1712-01-12,Jan 1712,purchase of enslaved,3120.0,novita,popayan,6 people
+2.1,5,1712-05-14,May 1712,purchase of enslaved on credit,9900.0,mina_salto,cartago,"18 people from Joseph de Los Santos; vale written at El Salto (author), not notarized in Cartago"
+2.1,19,1712-09-06,Sep 1712,purchase of enslaved,2500.0,novita,cartago,5 people
+2.1,20,1712-12-10,Dec 1712,purchase of enslaved,5590.0,novita,cartago,"9 people; with the next act, the chapter's eleven people from Antonio de Caseres in December (author: use the chapter)"
+2.1,21,1712-12-12,Dec 1712,purchase of enslaved,2475.0,novita,cartago,5 people
+2.2,2,1715-07-25,Jul 1715,power of attorney,,tamana,santafe,written at the Real de San Phelipe de Tamaná; no value
+2.2,8,1715-08-08,Aug 1715,demand for loan,6168.0,naurita,santafe,letter to his cousin Miguel de Berrío asking him to find lenders
+2.2,11,1715-09-28,Sep 1715,loan,3300.0,quibdo,santafe,from Joseph Gomes de Salazar; written at Quibdó (author)
+2.2,1,1715-12-05,Dec 1715,loan,994.0,quibdo,santafe,capital of a chaplaincy administered by Miguel Gomes Monzón; 994 pesos (author); written at Quibdó (author)
+2.2,6,1715-12-23,Dec 1715,debt acknowledgment (obligación),9900.0,los_brazos,cartago,"new obligación to Joseph de Los Santos recognizing the outstanding 9,900 pesos (value from the chapter)"
+2.2,30,1717-04-15,Apr 1717,sale of enslaved,2080.0,tado,cali,"four men (Salvador Yangomo, Diego Sacaba, Agustín Popo, Francisco Lao) sold to Alonso Arcadio Posso; written at Tadó, notarized in Cali"
+2.1,18,1713-04-28,Apr 1713,purchase of enslaved,522.0,novita,cartago,"1 person; database says Quibdó, drawn from the Nóvita region (author: likely Nóvita, he was not yet Lieutenant of Citará; chapter: appointed mid-1714)"
