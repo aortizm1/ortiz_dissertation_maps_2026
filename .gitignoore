@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+dem.tif
+acuna_transactions/data/dem_corridor_90m.tif
