@@ -1,6 +1,7 @@
 # Replication package: maps of Don Luis de Acuña's credit exchanges, New Granada, 1703–1717
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23073509.svg)](https://doi.org/10.5281/zenodo.23073509)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23073508.svg)]
+(https://doi.org/10.5281/zenodo.23073508)
 
 This repository rebuilds five maps from Amanda Carolina Ortiz Molina's dissertation,
 *A World of Credit: A Social and Economic History of New Granada's Colonial Life in
@@ -99,7 +100,7 @@ their own licences, listed above and in `LICENSE-DATA.md`.
 
 ## How to cite
 
-Ortiz Molina, Amanda Carolina. 2026. *Replication package: maps of Don Luis de Acuña's credit exchanges, New Granada, 1703–1717*. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.23073509. Code: https://github.com/aortizm1/ortiz_dissertation_maps_2026.
+Ortiz Molina, Amanda Carolina. 2026. *Replication package: maps of Don Luis de Acuña's credit exchanges, New Granada, 1703–1717*. Zenodo. https://doi.org/10.5281/zenodo.23073508. Code: https://github.com/aortizm1/ortiz_dissertation_maps_2026.
 
 See also `CITATION.cff`.
 
