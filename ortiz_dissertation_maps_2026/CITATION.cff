@@ -9,7 +9,7 @@ date-released: "2026-09-30"
 version: "1.0.0"
 license: MIT
 repository-code: "https://github.com/aortizm1/ortiz_dissertation_maps_2026"
-doi: "10.5281/zenodo.23073509"
+doi: "10.5281/zenodo.23073508"
 references:
   - type: thesis
     authors:
