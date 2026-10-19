@@ -61,7 +61,7 @@ pl = pd.read_csv("data/places.csv").set_index("place_id")
 P = {k: (r.lon, r.lat) for k, r in pl.iterrows()}
 roads = gpd.read_file("data/roads.geojson")
 
-fig, ax, ax_leg = bm.page(FRAME, leg_h=0.72)
+fig, ax, ax_leg = bm.page(FRAME, leg_h=0.72, title_h=0.48)
 
 # ---------------------------------------------------------------- main map: the route
 bm.base(ax, FRAME, YEAR, rivers_ne=("Cauca", "Magdalena"), rivers_osm=("San Juan", "Tamaná"),
@@ -229,7 +229,7 @@ ax_leg.legend(handles=HT, loc="center left", bbox_to_anchor=(INSET[0] + 0.035, 0
 ax_leg.add_patch(Rectangle((0, 0), 1, 1, transform=ax_leg.transAxes, fill=False,
                            edgecolor="#3a3a3a", linewidth=1.1, clip_on=False))
 
-bm.title(fig, "Map 1.2  Don Luis de Acuña's financial and debt transactions in the city of Santafé, 1710", size=8.6)
+bm.title(fig, "Map 1.2  Don Luis de Acuña’s credit exchanges and purchases\nnotarized in Santafé, 1710", size=9.4)
 fig.canvas.draw()
 bm.north_arrow(ax, 0.215, 0.035, length=0.06)
 fig.savefig("outputs/map_transactions_1710.png", dpi=300, facecolor="white")

@@ -115,7 +115,7 @@ riv_pac = gpd.clip(riv_pac[riv_pac["name"].map(lambda n: unicodedata.normalize("
 FIG_W, M = 6.5, 0.08
 MAP_W = FIG_W - 2 * M
 MAP_H = MAP_W * (np.ptp(FRAME["lat"]) / np.ptp(FRAME["lon"])) / np.cos(np.radians(np.mean(FRAME["lat"])))
-TITLE_H, GAP, LEG_H, BOT = 0.32, 0.10, 0.80, 0.04
+TITLE_H, GAP, LEG_H, BOT = 0.48, 0.10, 0.80, 0.04
 FIG_H = TITLE_H + MAP_H + GAP + LEG_H + BOT
 fig = plt.figure(figsize=(FIG_W, FIG_H))
 ax = fig.add_axes([M / FIG_W, (BOT + LEG_H + GAP) / FIG_H, MAP_W / FIG_W, MAP_H / FIG_H])
@@ -234,7 +234,8 @@ axi.set_xticks([]); axi.set_yticks([])
 for sp in axi.spines.values():
     sp.set_edgecolor("#3a3a3a"); sp.set_linewidth(0.9)
 
-fig.text(M / FIG_W, 1 - 0.06 / FIG_H, f"Places of the dissertation in the Viceroyalty of New Granada, c. {YEAR}",
+fig.text(M / FIG_W, 1 - 0.06 / FIG_H, "Map I.1  The Viceroyalty of New Granada:\n"
+         "Gold-mining frontiers, Andean salt-producing towns, and cities", linespacing=1.15,
          ha="left", va="top", fontsize=10.5, weight="bold", color=INK)
 fig.canvas.draw()                                   # fix the layout before placing by display units
 

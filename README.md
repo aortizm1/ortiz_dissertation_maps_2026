@@ -11,11 +11,11 @@ in this repository and openly licensed base data.
 
 | Map | Script | Output |
 | --- | --- | --- |
-| Introduction: places of the dissertation in the Viceroyalty of New Granada, c. 1726 | `map_intro_viceroyalty.py` | `outputs/map_intro_viceroyalty.png` / `.pdf` |
-| Map 1.1 Credit exchanges arranged by Don Luis de Acuña from Chocó, 1703–1709 | `acuna_transactions/map_transactions_1703_1709.py` | `acuna_transactions/outputs/map_transactions_1703_1709.png` / `.pdf` |
-| Map 1.2 Don Luis de Acuña's financial and debt transactions in the city of Santafé, 1710 | `acuna_transactions/map_transactions_1710.py` | `.../map_transactions_1710.png` / `.pdf` |
+| Map I.1 The Viceroyalty of New Granada: Gold-mining frontiers, Andean salt-producing towns, and cities | `map_intro_viceroyalty.py` | `outputs/map_intro_viceroyalty.png` / `.pdf` |
+| Map 1.1 Credit exchanges and purchases arranged by Don Luis de Acuña from Nóvita, 1703–1709 | `acuna_transactions/map_transactions_1703_1709.py` | `acuna_transactions/outputs/map_transactions_1703_1709.png` / `.pdf` |
+| Map 1.2 Don Luis de Acuña’s credit exchanges and purchases notarized in Santafé, 1710 | `acuna_transactions/map_transactions_1710.py` | `.../map_transactions_1710.png` / `.pdf` |
 | Map 2.1 Purchases of enslaved people by Don Luis de Acuña, 1711–1713 | `acuna_transactions/map_transactions_1711_1713.py` | `.../map_transactions_1711_1713.png` / `.pdf` |
-| Map 2.2 Financial transactions, powers of attorney, and sales made by Don Luis de Acuña while in Chocó, 1715–1717 | `acuna_transactions/map_transactions_1715_1717.py` | `.../map_transactions_1715_1717.png` / `.pdf` |
+| Map 2.2 Credit exchanges, correspondence, power of attorney, and sales made by Don Luis de Acuña from Chocó, 1715–1717 | `acuna_transactions/map_transactions_1715_1717.py` | `.../map_transactions_1715_1717.png` / `.pdf` |
 
 The outputs committed here are the versions used in the dissertation, so a rebuild
 can be compared against them.

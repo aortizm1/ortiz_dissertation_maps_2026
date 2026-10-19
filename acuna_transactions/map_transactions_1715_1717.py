@@ -180,8 +180,8 @@ ax_leg.legend(handles=HT, loc="center right", bbox_to_anchor=(0.995, 0.5), ncol=
 ax_leg.add_patch(Rectangle((0, 0), 1, 1, transform=ax_leg.transAxes, fill=False, edgecolor="#3a3a3a",
                            linewidth=1.1, clip_on=False))
 
-bm.title(fig, "Map 2.2  Financial transactions, powers of attorney, and sales\n"
-              "made by Don Luis de Acuña while in Chocó, 1715–1717", size=9.4)
+bm.title(fig, "Map 2.2  Credit exchanges, correspondence, power of attorney, and sales\n"
+              "made by Don Luis de Acuña from Chocó, 1715–1717", size=9.4)
 fig.canvas.draw()
 bm.scale_bar(ax, FRAME, 50, x_frac=0.80, y_frac=0.90)
 bm.north_arrow(ax, 0.965, 0.84, length=0.08)

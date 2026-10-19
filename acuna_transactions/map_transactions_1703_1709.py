@@ -88,7 +88,7 @@ pl = pd.read_csv("data/places.csv").set_index("place_id")
 P = {k: (r.lon, r.lat) for k, r in pl.iterrows()}
 roads = gpd.read_file("data/roads.geojson")
 
-fig, ax, ax_leg = bm.page(FRAME, leg_h=0.95)
+fig, ax, ax_leg = bm.page(FRAME, leg_h=0.95, title_h=0.48)
 bm.base(ax, FRAME, YEAR_BOUNDS, rivers_ne=("Cauca", "Magdalena", "Atrato"), rivers_osm=("San Juan", "Tamaná"),
         aud_color=AUD_COLOR, aud_lw=1.0)
 roads.plot(ax=ax, **ROUTE)
@@ -247,7 +247,7 @@ ax_leg.legend(handles=HB, loc="center right", bbox_to_anchor=(0.99, 0.5), **kw)
 ax_leg.add_patch(Rectangle((0, 0), 1, 1, transform=ax_leg.transAxes, fill=False,
                            edgecolor="#3a3a3a", linewidth=1.1, clip_on=False))
 
-bm.title(fig, f"Map 1.1  Credit exchanges arranged by Don Luis de Acuña from Chocó, {PERIOD[0]}–{PERIOD[1]}", size=9.4)
+bm.title(fig, f"Map 1.1  Credit exchanges and purchases arranged by Don Luis de Acuña\nfrom Nóvita, {PERIOD[0]}–{PERIOD[1]}", size=9.4)
 fig.canvas.draw()
 bm.north_arrow(ax, 0.965, 0.84, length=0.07)
 bm.curved_text(fig, ax, [(-77.75, 4.55), (-77.72, 5.05), (-77.72, 5.55), (-77.76, 6.05)],
