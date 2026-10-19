@@ -2,5 +2,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+# rebuilt by the fetch scripts
 dem.tif
 acuna_transactions/data/dem_corridor_90m.tif
+outputs/dem_preview.png
