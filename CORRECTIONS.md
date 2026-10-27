@@ -52,3 +52,20 @@ extract, and every act left out, so the curated tables can be traced back to it.
 Names of the enslaved people bought in 1710 (Maria, Joseph de Tapia, Thomas), of the
 other parties, and of the notaries in `actors_1710.csv` come from the notarial
 records (AGN, Notaría Segunda, vols. 98–106) as cited in the dissertation.
+
+## Map 3.1: the 1755 census
+
+`ponton/data/census_1755_mining_camps.csv` follows Williams's transcription, with
+these differences:
+
+| Camp | Field | Williams | Used | Basis |
+| --- | --- | --- | --- | --- |
+| Santa Bárbara de Arriba (Cajón) | owner | Manuel Morillo | Manuel Murillo | AGN, Negros y Esclavos-Cauca, SC.43, 2, D.20, and a source cited in Chapter 4 (author) |
+| all | year | c. 1753 | 1755 | The same information is in the census of 1755, AGN, Negros y Esclavos-Cauca, SC.43, 2, D.20, ff. 958r–964v (author) |
+
+On the map labels, the owner of Santa Bárbara is given as Ibargüen (Williams: "Bautista
+y Barguén"), and Sed de Cristo and El Salto as Bonilla–Rivas, the partnership of Don
+Juan de Bonilla and Don Francisco Rivas discussed in Chapter 3 (El Salto is listed in
+1755 under Rivas's son, Don Tomás de Rivas). Williams gives "Diego de Tovar (free
+black)" for the Taparal camp; the chapter's form, Diego Ibo de Thovar, free African,
+is used.

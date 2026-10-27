@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use these maps, data or code, please cite them as below."
-title: "Replication package: maps of Don Luis de Acuña's credit exchanges, New Granada, 1703–1717"
+title: "Replication package: maps of credit and gold mining in colonial New Granada, 1703–1790"
 authors:
   - family-names: "Ortiz Molina"
     given-names: "Amanda Carolina"
     affiliation: "Binghamton University, State University of New York"
-date-released: "2026-09-30"
-version: "1.0.0"
+date-released: "2026-10-27"
+version: "1.1.0"
 license: MIT
 repository-code: "https://github.com/aortizm1/ortiz_dissertation_maps_2026"
 doi: "10.5281/zenodo.23073508"
